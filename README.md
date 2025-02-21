@@ -4,7 +4,7 @@ Perkenalkan nama saya **Nur Aziz Raihan**.<br>
 
 Saya adalah seorang **Mahasiswa S1 Informatika** di [Universitas Bhayangkara Jakarta Raya](https://ubharajaya.ac.id/).<br>
 
-Saya adalah seorang yanag antusias dalam bidang front-end deevelopment.
+Saya adalah seseorang yang antusias dalam bidang front-end devlopment.
 
 ### Github Statistic
 <p align="left">
