@@ -1,10 +1,10 @@
-# Halo semua! 
+# Hello everyone!
 
-Perkenalkan nama saya **Nur Aziz Raihan**.<br>
+Introduce my name is **Nur Aziz Raihan**.<br>
 
-Saya adalah seorang **Mahasiswa S1 Informatika** di [Universitas Bhayangkara Jakarta Raya](https://ubharajaya.ac.id/).<br>
+An **undergraduate student of the informatics study program** at [Bhayangkara Jakarta Raya University](https://ubharajaya.ac.id/).<br>
 
-Saya adalah seseorang yang antusias dalam bidang web and mobile developer.
+I am an enthusiastic web and mobile developer.
 
 ### Github Statistic
 <p align="left">
