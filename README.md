@@ -2,7 +2,7 @@
 
 Introduce my name is **Nur Aziz Raihan**.<br>
 
-An **Informatics Graduate of the informatics study program** at [Bhayangkara Jakarta Raya University](https://ubharajaya.ac.id/).<br>
+An **Informatics Graduate** at [Bhayangkara Jakarta Raya University](https://ubharajaya.ac.id/).<br>
 
 I am an enthusiastic web and mobile developer.
 
